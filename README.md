@@ -9,3 +9,7 @@ There are 3 features in this financial calculator:
 2. Employ a slider to adjust the interest rates
 3. Employ a button to enable simple and compound interest calculation
 
+
+
+https://user-images.githubusercontent.com/84282744/185828743-ab9877da-444c-4e03-bf2b-25a787c2d7ef.mp4
+
