@@ -1,6 +1,7 @@
 # Financial_Calculator
 
 ## A simple and compound interest calculator
+* Double Clicl the [FinancialCalculator.jar](FinancialCalculator.jar) to trigger the Financial Calculator
 * The [Main.java](src/application/Main.java) implements the the main class for this JavaFX application
 * The [application.css](src/application/application.css) configures the theme of the application
 
